@@ -23,8 +23,7 @@ dezenas de classes e milhares de imagens,
 de modo que meu pequeno dataset com duas classes rapidamente levava ao  
 overfitting do modelo.  
 Por conta disso, o modelo simples que foi criado do zero perfomou muito melhor  
-por ter mais compatibilidade com o pequeno dataset, 
-demonstrando pela curva de aprendizado e pelo validation loss  
+por ter mais compatibilidade com o pequeno dataset, demonstrando, pela curva de aprendizado e pelo validation loss,  
 que realmente estava reconhecendo os padrões e não apenas decorando as respostas.  
 
 Ferramentas:  
