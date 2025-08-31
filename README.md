@@ -29,4 +29,4 @@ que realmente estava reconhecendo os padrões e não apenas decorando as respost
 Ferramentas:  
 Torch, Keras, VGG16, Matplotlib, Numpy.  
 Keywords:  
-Machine Learning, Deep Lerning, Transfer Lerning, classificação de imagens, Data Science, Python.
+Machine Learning, Deep Lerning, Transfer Lerning, Fine Tuning, classificação de imagens, Data Science, Python.
