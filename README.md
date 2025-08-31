@@ -12,7 +12,7 @@ teve uma acurácia bem instável, variando drasticamente entre 60% e 100% em
 
 No resultado do teste final, após 20 épocas, o modelo de Transfer Learning  
 superou em acurácia o modelo "from scratch", 100% contra 95%, contudo,  
-A perda desse modelo mais elaborado foi bem maior, 40% contra 25%, mostrando  
+A perda desse modelo mais elaborado foi bem maior, 0.40 contra 0.25, mostrando  
 que provavelmente a rede mais complexa sofreu overfiting e que o resultado  
 superior na acurácia é mais um fruto do dataset pequeno do que de um desempenho  
 melhor.  
